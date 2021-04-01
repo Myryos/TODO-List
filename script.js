@@ -1,4 +1,4 @@
-document.getElementById("TODO_Button").addEventListener("click",createToDo());
+let button = document.getElementById("TODO_Button").addEventListener("click",createToDo());
 
 function createToDo()
 {
