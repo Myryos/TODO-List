@@ -2,5 +2,5 @@ let button = document.getElementById("TODO_Button").addEventListener("click",cre
 
 function createToDo()
 {
-    console.log("test");
+    console.log("test"); //Cette fonction servira  a la crea ddes todo
 }
